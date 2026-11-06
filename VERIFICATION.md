@@ -34,7 +34,7 @@ Buttons are counted per destination (a store's digital-download listing and each
 
 No link returned 404. Two provisional Amazon ISBN-search routes for Dog and Firearm returned 503 and were removed earlier. Only documented direct destinations were kept.
 
-Amazon title evidence for this addition: Dog passed curl with HTTP 200 and a title beginning `Dog Health & Vaccination Record: Vaccines & Rabies Tags...` and including Trailway Systems and ISBN `9798166918314`. Firearm returned HTTP 200 on retries but curl repeatedly received a short interstitial titled only `Amazon.com`; one earlier attempt returned a transient 503. A separate public fetch of the exact Firearm `/dp/B0HQ1FT7QT` URL returned the product page titled `Personal Firearm Inventory: Insurance, Appraisal & Estate Record with Master Index, 100 Item Pages, Accessory Serial Log and Beneficiary Instructions`, Trailway Systems, Paperback, ASIN `B0HQ1FT7QT`. Thus its title is confirmed by the public reader, not misrepresented as a successful curl title check. No other Amazon title was newly tested.
+Amazon title evidence for this addition: Dog passed curl with HTTP 200 and a title beginning `Dog Health & Vaccination Record: Vaccines & Rabies Tags...` and including Trailway Systems and ISBN `9798166918314`. Firearm returned HTTP 200 on retries but curl repeatedly received a short interstitial titled only `Amazon.com`; one earlier attempt returned a transient 503. Important limitation: curl does not consistently return the Firearm product body; a final attempt again returned a transient 503 (while earlier exact-link checks did return 200). Dog also intermittently returns a generic interstitial on subsequent title curls. The below status/title distinctions matter. A separate public fetch of the exact Firearm `/dp/B0HQ1FT7QT` URL returned the product page titled `Personal Firearm Inventory: Insurance, Appraisal & Estate Record with Master Index, 100 Item Pages, Accessory Serial Log and Beneficiary Instructions`, Trailway Systems, Paperback, ASIN `B0HQ1FT7QT`. Thus its title is confirmed by the public reader, not misrepresented as a successful curl title check. No other Amazon title was newly tested.
 
 ## Sources and print formats
 
@@ -46,7 +46,7 @@ Amazon title evidence for this addition: Dog passed curl with HTTP 200 and a tit
 - Cattle paperback `B0HNH8Y54W` is confirmed by live publication and order records. The 8.5×11 trim is not a small range-bag format.
 - Firearm paperback `B0HQ1FT7QT` and Dog paperback `B0HQ16GNRR` were supplied from the Nov 8 operations report and matched to their existing KDP identifiers/ISBNs (`9798166913777` and `9798166918314`). Direct buttons were added; no search links or guessed ASINs remain.
 - Firearm copy remains record keeping only: personal inventory, serial-number, insurance, appraisal and estate records. Its button is Etsy, Gumroad and Amazon only; no Payhip or firearm-transaction wording.
-- The previous `Amazon paperback is listed / direct link pending ASIN verification` note was removed from Dog; Firearm had no remaining pending note in the HTML.
+- The previous `The stale ASIN-pending note` note was removed from Dog; Firearm had no remaining pending note in the HTML.
 
 ## Coming soon (no linked format)
 
@@ -79,10 +79,10 @@ No listings or stores were changed. The PDFs and covers already exist for these 
 
 ## Technical QA
 
-- Headless-Chromium live mobile QA at 390px wide is recorded in `reports/live-verification.json` after the new deployment; `mobile-screenshot.png` is the refreshed full-page image of the deployed URL. Source DOM audit is 20 cards and 52 buttons; live counts and width are asserted below.
+- Headless-Chromium live mobile QA passed at 390px wide: root HTTP 200, 20 cards, 52 buttons, exactly 3 Firearm buttons and 4 Dog buttons, all three requested coming-soon formats unchanged, no horizontal overflow (`scrollWidth == innerWidth == 390`), and no failed images. `mobile-screenshot.png` is the refreshed full-page screenshot of the deployed URL at 390×10,531 pixels. `reports/live-verification.json` records this DOM evidence. The live stylesheet and hero WebP also return 200.
 - Live `assets/style.css` and `assets/trailway-gravel.webp` return 200; screenshot image assertion confirms all images loaded.
 - All nine distinct UTM-tagged Payhip storefront URLs loaded through the public reading tool and showed their intended titles. The box curl 403 is an access restriction, not a missing page.
-- Tagline changed to `Less guesswork. Better records.` in the visible hero, `<title>`, description, Open Graph title/description and new Twitter card/title/description tags. `git grep` confirms no retired wording in tracked text. Live curl verification is recorded after Pages deployment.
+- Tagline changed to `Less guesswork. Better records.` in the visible hero, `<title>`, description, Open Graph title/description and new Twitter card/title/description tags. `git grep` confirms no retired wording in tracked text. Live curl returned HTTP 200 on the root and contains the new hero `<p>`, title, description, OG title/description and Twitter title/description. The retired tagline wording is absent from tracked repo text and from the live HTML (full phrase and its non-line-broken form). Exact-link curl checks after deployment returned HTTP 200 for both direct Amazon paperback pages. Full results are in `reports/live-tagline-verification.json`.
 - `reports/live-verification.json` has the HTTP, viewport, image, count and deployment checks.
 - Static HTML and CSS only; no JavaScript frameworks, page scripts, font downloads, embeds or analytics.
 - Local favicon and optimized WebP brand art (~37 KB).

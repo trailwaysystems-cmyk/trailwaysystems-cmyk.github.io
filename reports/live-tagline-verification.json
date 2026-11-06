@@ -1,0 +1,19 @@
+{
+  "live_http_status": 200,
+  "title_contains_full_tagline": true,
+  "visible_hero_tagline": true,
+  "retired_phrase_count": 0,
+  "description_tagline": true,
+  "og_title_tagline": true,
+  "og_description_tagline": true,
+  "twitter_card": true,
+  "twitter_title_tagline": true,
+  "twitter_description_tagline": true,
+  "amazon_paperback_links": [
+    "https://www.amazon.com/dp/B0HQ1FT7QT?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=firearm-amazon-pb",
+    "https://www.amazon.com/dp/B0HQ16GNRR?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-amazon-pb"
+  ],
+  "product_cards": 20,
+  "retired_phrase_check": "by direct string matching in fetched HTML",
+  "checked_at": "2026-11-06T14:31:57.872874+00:00"
+}
