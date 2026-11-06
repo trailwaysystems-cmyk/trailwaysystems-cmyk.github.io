@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-06T14:05:04.242769+00:00",
+  "checked_at": "2026-11-06T14:23:31.502841+00:00",
   "checked_from": "box using curl GET with redirects",
-  "url_occurrences": 50,
-  "unique_destinations": 50,
+  "url_occurrences": 52,
+  "unique_destinations": 52,
   "results": [
     {
       "url": "https://www.etsy.com/listing/4596310750?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=cattle-etsy",
@@ -105,6 +105,13 @@
     {
       "url": "https://trailway.gumroad.com/l/ddlnq?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=firearm-gumroad",
       "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HQ1FT7QT?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=firearm-amazon-pb",
+      "host": "www.amazon.com",
       "status": 200,
       "curl_exit": 0,
       "error": ""
@@ -232,6 +239,13 @@
       "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-payhip",
       "host": "payhip.com",
       "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HQ16GNRR?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-amazon-pb",
+      "host": "www.amazon.com",
+      "status": 200,
       "curl_exit": 0,
       "error": ""
     },

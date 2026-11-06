@@ -135,11 +135,16 @@
               "label": "Gumroad",
               "href": "https://trailway.gumroad.com/l/ddlnq?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=firearm-gumroad",
               "css": ""
+            },
+            {
+              "label": "Paperback",
+              "href": "https://www.amazon.com/dp/B0HQ1FT7QT?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=firearm-amazon-pb",
+              "css": "amazon"
             }
           ],
           "waiting": null,
-          "pending_asin": true,
-          "pending_details": "Paperback live per operations/public-retail evidence; direct link withheld pending ASIN."
+          "pending_asin": false,
+          "verified_asin": "B0HQ1FT7QT"
         }
       ]
     },
@@ -277,11 +282,16 @@
               "label": "Payhip \u00b7 pick this title",
               "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-payhip",
               "css": ""
+            },
+            {
+              "label": "Paperback \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HQ16GNRR?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-amazon-pb",
+              "css": "amazon"
             }
           ],
           "waiting": "Hardcover",
-          "pending_asin": true,
-          "pending_details": "Paperback live per operations/public-retail evidence; direct link withheld pending ASIN."
+          "pending_asin": false,
+          "verified_asin": "B0HQ16GNRR"
         },
         {
           "id": "migraine",
