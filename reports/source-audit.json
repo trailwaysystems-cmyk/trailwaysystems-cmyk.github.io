@@ -1,0 +1,25 @@
+{
+  "products": 20,
+  "product_buttons": 50,
+  "arena_order": [
+    "barn",
+    "collection",
+    "firearm",
+    "road",
+    "boat",
+    "health",
+    "budget",
+    "estate",
+    "field",
+    "bundles",
+    "rv"
+  ],
+  "store_counts": {
+    "www.etsy.com": 15,
+    "trailway.gumroad.com": 14,
+    "payhip.com": 9,
+    "www.amazon.com": 12
+  },
+  "external_assets": [],
+  "result": "PASS: 20 cards; 50 store/format buttons with all required UTM keys; local-only assets; no scripts; required disclaimer; restricted names absent from text source."
+}

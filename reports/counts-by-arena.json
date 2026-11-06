@@ -1,0 +1,57 @@
+[
+  {
+    "arena": "barn",
+    "products": 3,
+    "buttons": 9
+  },
+  {
+    "arena": "collection",
+    "products": 2,
+    "buttons": 4
+  },
+  {
+    "arena": "firearm",
+    "products": 1,
+    "buttons": 2
+  },
+  {
+    "arena": "road",
+    "products": 2,
+    "buttons": 10
+  },
+  {
+    "arena": "boat",
+    "products": 1,
+    "buttons": 5
+  },
+  {
+    "arena": "health",
+    "products": 2,
+    "buttons": 8
+  },
+  {
+    "arena": "budget",
+    "products": 1,
+    "buttons": 3
+  },
+  {
+    "arena": "estate",
+    "products": 1,
+    "buttons": 0
+  },
+  {
+    "arena": "field",
+    "products": 1,
+    "buttons": 1
+  },
+  {
+    "arena": "bundles",
+    "products": 1,
+    "buttons": 1
+  },
+  {
+    "arena": "rv",
+    "products": 5,
+    "buttons": 7
+  }
+]

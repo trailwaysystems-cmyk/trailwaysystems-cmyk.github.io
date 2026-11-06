@@ -1,0 +1,358 @@
+{
+  "checked_at": "2026-11-06T14:05:04.242769+00:00",
+  "checked_from": "box using curl GET with redirects",
+  "url_occurrences": 50,
+  "unique_destinations": 50,
+  "results": [
+    {
+      "url": "https://www.etsy.com/listing/4596310750?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=cattle-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/wvsijs?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=cattle-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=cattle-payhip",
+      "host": "payhip.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HNH8Y54W?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=cattle-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4596291019?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=horse-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/zcilln?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=horse-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=horse-payhip",
+      "host": "payhip.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HP821GHB?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=horse-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/hlnxqi?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=homestead-bundle-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4598670854?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=coin-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/drvrph?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=coin-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=coin-payhip",
+      "host": "payhip.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/gescqp?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=collector-bundle-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4596291531?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=firearm-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/ddlnq?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=firearm-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4596289149?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/rzeber?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-payhip",
+      "host": "payhip.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HN65PZRJ?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HNHL553Q?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4596309108?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/zmzunp?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-payhip",
+      "host": "payhip.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HNHG2NS5?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HP87GLPF?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4596309404?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/kynevm?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-payhip",
+      "host": "payhip.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HN5SFKPC?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HNHPLX1N?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4598671172?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/aoqmueq?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-payhip",
+      "host": "payhip.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4598647691?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/cxsdzn?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-payhip",
+      "host": "payhip.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HP7RVPB3?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HP87YNQW?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4589803799?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=irregular-income-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/irregular-income-tax-set-aside?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=irregular-income-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=irregular-income-payhip",
+      "host": "payhip.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0HM6FPVFB?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=mushroom-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/pdyve?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=travel-bundle-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4586699085?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-checklist-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://trailway.gumroad.com/l/complete-rv-trip-checklist?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-checklist-gumroad",
+      "host": "trailway.gumroad.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0H52Y6PGL?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-checklist-amazon",
+      "host": "www.amazon.com",
+      "status": 200,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4598209964?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-maintenance-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4598190273?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=campground-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4598190593?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-packing-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    },
+    {
+      "url": "https://www.etsy.com/listing/4598191991?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-planner-etsy",
+      "host": "www.etsy.com",
+      "status": 403,
+      "curl_exit": 0,
+      "error": ""
+    }
+  ]
+}

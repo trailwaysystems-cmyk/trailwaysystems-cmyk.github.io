@@ -1,0 +1,483 @@
+{
+  "arenas": [
+    {
+      "id": "barn",
+      "title": "Livestock records",
+      "products": [
+        {
+          "id": "cattle",
+          "name": "Cattle Herd Record",
+          "description": "Calving, breeding, treatments and pasture notes for a small herd.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4596310750?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=cattle-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/wvsijs?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=cattle-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Payhip \u00b7 pick this title",
+              "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=cattle-payhip",
+              "css": ""
+            },
+            {
+              "label": "Paperback",
+              "href": "https://www.amazon.com/dp/B0HNH8Y54W?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=cattle-amazon",
+              "css": "amazon"
+            }
+          ],
+          "waiting": null
+        },
+        {
+          "id": "horse",
+          "name": "Horse Health Record",
+          "description": "A barn binder for vaccinations, farrier visits and care history for up to four horses.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4596291019?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=horse-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/zcilln?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=horse-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Payhip \u00b7 pick this title",
+              "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=horse-payhip",
+              "css": ""
+            },
+            {
+              "label": "Paperback",
+              "href": "https://www.amazon.com/dp/B0HP821GHB?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=horse-amazon",
+              "css": "amazon"
+            }
+          ],
+          "waiting": null
+        },
+        {
+          "id": "homestead-bundle",
+          "name": "Homestead & Animals Bundle",
+          "description": "Cattle, Horse and Dog printable records in one download.",
+          "links": [
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/hlnxqi?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=homestead-bundle-gumroad",
+              "css": ""
+            }
+          ],
+          "waiting": null
+        }
+      ]
+    },
+    {
+      "id": "collection",
+      "title": "Collection records",
+      "products": [
+        {
+          "id": "coin",
+          "name": "Coin Collection Inventory",
+          "description": "Numbered coin ledger, bullion log, key pieces, storage codes and insurance records.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4598670854?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=coin-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/drvrph?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=coin-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Payhip \u00b7 pick this title",
+              "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=coin-payhip",
+              "css": ""
+            }
+          ],
+          "waiting": "Paperback"
+        },
+        {
+          "id": "collector-bundle",
+          "name": "Collector & Records Bundle",
+          "description": "Coin records, a vehicle log and the irregular-income Google Sheets template.",
+          "links": [
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/gescqp?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=collector-bundle-gumroad",
+              "css": ""
+            }
+          ],
+          "waiting": null
+        }
+      ]
+    },
+    {
+      "id": "firearm",
+      "title": "Firearm records",
+      "products": [
+        {
+          "id": "firearm",
+          "name": "Personal Firearm Inventory",
+          "description": "Printable and fillable US Letter records for personal inventory and serial-number records.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4596291531?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=firearm-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/ddlnq?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=firearm-gumroad",
+              "css": ""
+            }
+          ],
+          "waiting": null,
+          "pending_asin": true,
+          "pending_details": "Paperback live per operations/public-retail evidence; direct link withheld pending ASIN."
+        }
+      ]
+    },
+    {
+      "id": "road",
+      "title": "Vehicle & Motorcycle",
+      "products": [
+        {
+          "id": "vehicle",
+          "name": "Vehicle Ownership & Resale Record",
+          "description": "Used-car inspection, service and receipt records in printable and fillable PDFs.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4596289149?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/rzeber?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Payhip \u00b7 pick this title",
+              "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-payhip",
+              "css": ""
+            },
+            {
+              "label": "Paperback \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HN65PZRJ?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-amazon",
+              "css": "amazon"
+            },
+            {
+              "label": "Hardcover \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HNHL553Q?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=vehicle-amazon",
+              "css": "amazon"
+            }
+          ],
+          "waiting": null
+        },
+        {
+          "id": "motorcycle",
+          "name": "Motorcycle Maintenance & Touring Log",
+          "description": "Service records, a pre-ride walkaround and touring-day pages for one motorcycle.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4596309108?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/zmzunp?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Payhip \u00b7 pick this title",
+              "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-payhip",
+              "css": ""
+            },
+            {
+              "label": "Paperback \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HNHG2NS5?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-amazon",
+              "css": "amazon"
+            },
+            {
+              "label": "Hardcover \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HP87GLPF?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=motorcycle-amazon",
+              "css": "amazon"
+            }
+          ],
+          "waiting": null
+        }
+      ]
+    },
+    {
+      "id": "boat",
+      "title": "Boat & Trailer",
+      "products": [
+        {
+          "id": "boat",
+          "name": "Powerboat & Trailer Log",
+          "description": "Equipment, engine hours, trailer service, trip logs and pre-departure float plan pages.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4596309404?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/kynevm?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Payhip \u00b7 pick this title",
+              "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-payhip",
+              "css": ""
+            },
+            {
+              "label": "Paperback \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HN5SFKPC?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-amazon",
+              "css": "amazon"
+            },
+            {
+              "label": "Hardcover \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HNHPLX1N?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=boat-amazon",
+              "css": "amazon"
+            }
+          ],
+          "waiting": null
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Pet & Health records",
+      "products": [
+        {
+          "id": "dog",
+          "name": "Dog Health & Vaccination Record",
+          "description": "Vaccination, medication, vet visit and daily-care records for your dog.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4598671172?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/aoqmueq?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Payhip \u00b7 pick this title",
+              "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=dog-payhip",
+              "css": ""
+            }
+          ],
+          "waiting": "Hardcover",
+          "pending_asin": true,
+          "pending_details": "Paperback live per operations/public-retail evidence; direct link withheld pending ASIN."
+        },
+        {
+          "id": "migraine",
+          "name": "Migraine & Headache Diary",
+          "description": "Calendars, episode notes and appointment pages to keep your own observations together.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4598647691?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/cxsdzn?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Payhip \u00b7 pick this title",
+              "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-payhip",
+              "css": ""
+            },
+            {
+              "label": "Paperback \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HP7RVPB3?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-amazon",
+              "css": "amazon"
+            },
+            {
+              "label": "Hardcover \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HP87YNQW?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=migraine-amazon",
+              "css": "amazon"
+            }
+          ],
+          "waiting": null
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Budget & Tax sheets",
+      "products": [
+        {
+          "id": "irregular-income",
+          "name": "Irregular Income Tax Set-Aside Budget",
+          "description": "A seven-tab Google Sheets template for freelance, gig and variable income, with a setup guide.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4589803799?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=irregular-income-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/irregular-income-tax-set-aside?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=irregular-income-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Payhip \u00b7 pick this title",
+              "href": "https://payhip.com/TrailwaySystems?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=irregular-income-payhip",
+              "css": ""
+            }
+          ],
+          "waiting": null
+        }
+      ]
+    },
+    {
+      "id": "estate",
+      "title": "Estate & Household records",
+      "products": [
+        {
+          "id": "estate",
+          "name": "Household Records & Executor Handoff",
+          "description": "An organized record of household contacts, documents, accounts and practical handoff notes.",
+          "links": [],
+          "waiting": "Paperback"
+        }
+      ]
+    },
+    {
+      "id": "field",
+      "title": "Field logs",
+      "products": [
+        {
+          "id": "mushroom",
+          "name": "Mushroom Foray Field Log",
+          "description": "A private field log for finds, sketches, spore prints and patch history.",
+          "links": [
+            {
+              "label": "Paperback \u00b7 6\u00d79",
+              "href": "https://www.amazon.com/dp/B0HM6FPVFB?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=mushroom-amazon",
+              "css": "amazon"
+            }
+          ],
+          "waiting": null
+        }
+      ]
+    },
+    {
+      "id": "rv",
+      "title": "RV & Camping printables",
+      "products": [
+        {
+          "id": "rv-checklist",
+          "name": "Complete RV Trip Checklist & RV Trip Operations",
+          "description": "Printable trip checklists, plus the separate 51-page RV Trip Operations paperback from Trailway Systems.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4586699085?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-checklist-etsy",
+              "css": ""
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/complete-rv-trip-checklist?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-checklist-gumroad",
+              "css": ""
+            },
+            {
+              "label": "Paperback",
+              "href": "https://www.amazon.com/dp/B0H52Y6PGL?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-checklist-amazon",
+              "css": "amazon"
+            }
+          ],
+          "waiting": null
+        },
+        {
+          "id": "rv-maintenance",
+          "name": "RV Maintenance Log",
+          "description": "Service history, generator hours, roof-seal inspections and tire records.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4598209964?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-maintenance-etsy",
+              "css": ""
+            }
+          ],
+          "waiting": null
+        },
+        {
+          "id": "campground",
+          "name": "Campground Review Tracker",
+          "description": "Keep notes on campsites, reservations and what you would change next time.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4598190273?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=campground-etsy",
+              "css": ""
+            }
+          ],
+          "waiting": null
+        },
+        {
+          "id": "rv-packing",
+          "name": "RV Packing List",
+          "description": "A printable packing checklist to adapt to your rig and the way you travel.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4598190593?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-packing-etsy",
+              "css": ""
+            }
+          ],
+          "waiting": null
+        },
+        {
+          "id": "rv-planner",
+          "name": "RV Trip Planner & Budget",
+          "description": "Route, reservation, fuel and trip-budget pages in one printable planner.",
+          "links": [
+            {
+              "label": "Etsy",
+              "href": "https://www.etsy.com/listing/4598191991?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=rv-planner-etsy",
+              "css": ""
+            }
+          ],
+          "waiting": null
+        }
+      ]
+    },
+    {
+      "id": "bundles",
+      "title": "Travel bundle",
+      "products": [
+        {
+          "id": "travel-bundle",
+          "name": "RV & Travel Records Bundle",
+          "description": "RV checklist plus Vehicle, Motorcycle and Powerboat printable records.",
+          "links": [
+            {
+              "label": "Gumroad",
+              "href": "https://trailway.gumroad.com/l/pdyve?utm_source=xbio&utm_medium=hub&utm_campaign=hub&utm_content=travel-bundle-gumroad",
+              "css": ""
+            }
+          ],
+          "waiting": null
+        }
+      ]
+    }
+  ]
+}
