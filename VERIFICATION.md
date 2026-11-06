@@ -69,12 +69,17 @@ No listings or stores were changed. The PDFs and covers already exist for these 
 - Clone four RV-only PDF listings to Gumroad using a single existing canonical product link per title: RV Maintenance, Campground Review, RV Packing, RV Trip Planner. Split part-supported RV products are not linked into Payhip's whole-store button.
 - Complete the Payhip RV set if deliberately reopening that avenue; current hub uses only whole-product Payhip support to avoid implying unavailable individual product coverage.
 - Add the two non-RV Gumroad bundles (Homestead & Animals; Collector & Records) to the free Payhip storefront with existing assets. Keep Firearm off Payhip and retain RV lower on the hub.
-- Add Payhip versions of the three existing Gumroad bundles only after corresponding product permalinks are captured; otherwise buttons would need a clearer group-specific storefront explanation.
-- House Mileage and Estate/Business Mileage print editions already have prepared packages but need normal publication, QA and ASIN capture before linking—not presented as live.
+- Add the RV & Travel Records Bundle to Payhip alongside those two non-RV bundles. The three already-live Gumroad bundles have confirmed listing links under `/workspace/briefs/big-boss-status.md`.
+- Capture Payhip product permalinks in a future approved listing pass and replace explicit whole-store buttons with direct product URLs. This changes destinations only, not the hub design.
+- Estate/Household and Business Mileage print editions already have prepared packages but need normal publication, QA and ASIN capture before linking. Business Mileage and Rental Property records are future print editions only.
+- If appropriate, prepare a stylus-friendly fillable PDF as a separate delivery format only for titles whose current files are printable-only; do not imply those PDFs are fillable today.
 
 ## Technical QA
 
-- Local Playwright (headless Chromium); 390px viewport: 20 cards, no horizontal overflow (`scrollWidth == 390`).
+- Live Playwright/headless-Chromium QA: root returned 200; at a 390px-wide viewport the full page has 20 cards, 50 buttons and no horizontal overflow (`scrollWidth == 390`). `mobile-screenshot.png` is a full-page screenshot of that deployed URL (10,593px tall).
+- Live `assets/style.css` and `assets/trailway-gravel.webp` return 200; screenshot image assertion confirms all images loaded.
+- All nine distinct UTM-tagged Payhip storefront URLs loaded through the public reading tool and showed their intended titles. The box curl 403 is an access restriction, not a missing page.
+- `reports/live-verification.json` has the HTTP, viewport, image, count and deployment checks.
 - Static HTML and CSS only; no JavaScript frameworks, page scripts, font downloads, embeds or analytics.
 - Local favicon and optimized WebP brand art (~37 KB).
 - Owner-selected gravel-road art: `/workspace/products/x-profile/pfp-1-gravel.jpg`.

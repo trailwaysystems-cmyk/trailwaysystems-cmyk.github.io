@@ -1,0 +1,19 @@
+{
+  "live_url": "https://trailwaysystems-cmyk.github.io/",
+  "http_status": 200,
+  "title": "Trailway Systems | Practical records, your way",
+  "viewport_width": 390,
+  "content_width": 390,
+  "full_page_height": 10593,
+  "cards": 20,
+  "buttons": 50,
+  "failed_images": [],
+  "screenshot": "mobile-screenshot.png",
+  "assets": {
+    "index.html": 200,
+    "assets/style.css": 200,
+    "assets/trailway-gravel.webp": 200
+  },
+  "payhip_reader": "All nine UTM-tagged storefront URLs loaded through WebFetch on 2026-11-06 and displayed their intended title. Curl 403 remains documented separately.",
+  "deployment": "GitHub Pages main / root; build 2eba05b97a26c56a7b1e09911af29a1e935fb34d built at 2026-11-06T14:13:32Z; live 200 confirmed at approximately 08:15 CT."
+}
